@@ -1,0 +1,15 @@
+Python - bu yuqori darajali dasturlash tili.
+Guido van Rossum tomonidan 1991 yilda yaratilgan.
+Python oddiy sintaksisga ega va o'rganish oson.
+
+FastAPI - Python da yozilgan tez web framework.
+FastAPI asinxron ishni qo'llab quvvatlaydi.
+FastAPI avtomatik API dokumentatsiya yaratadi.
+
+SQLAlchemy - Python da ORM kutubxonasi.
+SQLAlchemy ma'lumotlar bazasi bilan ishlashni osonlashtiradi.
+SQLAlchemy PostgreSQL, MySQL, SQLite bilan ishlaydi.
+
+Django - Python da yozilgan to'liq web framework.
+Django admin panel bilan birga keladi.
+Django ORM, authentication, va boshqa vositalarni o'z ichiga oladi.
